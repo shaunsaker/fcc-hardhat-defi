@@ -12,5 +12,6 @@ module.exports = {
   },
   rules: {
     "@typescript-eslint/no-unused-vars": "error",
+    "@typescript-eslint/explicit-function-return-type": "error",
   },
 }

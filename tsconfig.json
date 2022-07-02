@@ -5,8 +5,7 @@
     "strict": true,
     "esModuleInterop": true,
     "outDir": "dist",
-    "declaration": true,
-    "noUnusedLocals": true
+    "declaration": true
   },
   "include": ["**/*.ts"],
   "exclude": ["node_modules"],
